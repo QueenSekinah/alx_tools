@@ -1,0 +1,12 @@
+alx_tools/
+│
+├── html/
+│   └── home.html
+│
+├── css/
+│   └── style.css
+│
+└── js/
+    ├── main.js
+    ├── alx.js
+    └── school.js
